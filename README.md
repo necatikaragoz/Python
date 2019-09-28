@@ -1,0 +1,2 @@
+# Phyton
+phyton işleri
