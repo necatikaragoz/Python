@@ -1,2 +1,2 @@
-# Phyton
-phyton işleri
+# Python
+python işleri
