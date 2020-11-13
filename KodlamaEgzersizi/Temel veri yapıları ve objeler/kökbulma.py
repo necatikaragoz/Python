@@ -19,6 +19,6 @@ delta = (b*b) - (4*(a*c))
 print("delta = ", delta)
 
 first = (-b - (delta) ** 0.5) / (2*a)
-seconf = (-b + (delta) ** 0.5) / (2*a)
+second = (-b + (delta) ** 0.5) / (2*a)
 
-print("birinci kök = {}\n ikinci kök  = {} \n" .format(first,seconf))
+print("birinci kök = {}\n ikinci kök  = {} \n" .format(first,second))

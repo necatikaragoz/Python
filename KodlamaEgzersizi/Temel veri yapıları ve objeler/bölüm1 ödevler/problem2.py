@@ -1,4 +1,4 @@
-print("deben kitle indexsi bulma")
+print("beden kitle index bulma")
 
 boy = int(input("lütfen boyunuzu cm olarak giriniz = "))
 kilo = int(input("lütfen kilonuzu giriniz = "))
