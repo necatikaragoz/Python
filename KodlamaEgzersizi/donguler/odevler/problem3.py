@@ -11,6 +11,7 @@ liste = [i for i in range (1,10)]
 print(liste)
 
 for i in liste:
+    print("*************************************************")
     for j in liste:
         print("{} x {} = {}".format(i,j,i*j))
 

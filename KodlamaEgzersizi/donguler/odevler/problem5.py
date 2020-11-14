@@ -9,8 +9,7 @@ print(" press q for exit")
 
 
 
-for i in range(1,100):
+for i in range(1,101):
     if( i%3 != 0):
         continue
-    else:
-        print("{} sayısı 3 e tam bölünebilir".format(i))
+    print("{} sayısı 3 e tam bölünebilir".format(i))
